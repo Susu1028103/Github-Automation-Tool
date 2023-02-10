@@ -30,11 +30,11 @@
     # Optional HTML body read from file:
     html_body: file://README.html
     # Optional carbon copy recipients:
-    cc: kyloren@example.com,leia@example.com
+    cc: agoniasu@126.com
     # Optional blind carbon copy recipients:
-    bcc: r2d2@example.com,hansolo@example.com
+    bcc: s8liu@ucsd.edu
     # Optional recipient of the email response:
-    reply_to: luke@example.com
+    reply_to: 1243629275@qq.com
     # Optional Message ID this message is replying to:
     in_reply_to: <random-luke@example.com>
     # Optional unsigned/invalid certificates allowance:
