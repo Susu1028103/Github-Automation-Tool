@@ -1,4 +1,4 @@
-- name: Send mail
+- name: SendEmail
   uses: Susu1028103/Github-Automation-Tool@v3
   with:
     # Specify connection via URL (replaces server_address, server_port, secure,
